@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED59C25B-5497-45BE-BA0B-EBA23D91C460</string>
+	<key>IDESourceControlProjectName</key>
+	<string>超级猜图</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56CF10434435673DBA9FB41905F4F14466563E70</key>
+		<string>github.com:nuoyaneasy/GuessCY.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>超级猜图.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56CF10434435673DBA9FB41905F4F14466563E70</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:nuoyaneasy/GuessCY.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>56CF10434435673DBA9FB41905F4F14466563E70</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56CF10434435673DBA9FB41905F4F14466563E70</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E8%B6%85%E7%BA%A7%E7%8C%9C%E5%9B%BE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
